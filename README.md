@@ -1,1 +1,1 @@
-# gest-oeorganiza-es
+# http://revistaregor.github.io/gestaoeorganizacoes
